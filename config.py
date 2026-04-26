@@ -6,7 +6,7 @@
 
 SITE_CONFIG = {
     # Site Identity
-    "site_name": "THORYXFF",
+    "site_name": "ZIICODEX",
     "site_logo_emoji": "⚡",
     
     # Free Fire Version
@@ -22,10 +22,10 @@ SITE_CONFIG = {
     
     # Bio Settings
     "bio_char_limit": 300,
-    "default_region": "IND",
+    "default_region": "ID",
     
     # Footer
-    "footer_text": "THORYXFF • Neon Bio Injector",   # ← comma is correct here!
+    "footer_text": "ZIICODEXXFF • Neon Bio Injector",   # ← comma is correct here!
     
     # Video Tutorial Links
     "howto_video_link": "https://youtu.be/VwWdm9UFZRM",
